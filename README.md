@@ -1,5 +1,9 @@
 # Document Service
 
+**Offeria — a product by [Al‑Wahha Al‑Sehriya](https://github.com/Al-Wahha-Al-Sehriya).**
+
+[Company website](https://wahasehriya.com/) · [Offeria repositories](https://github.com/offeria-io)
+
 ## Description
 The Document Service handles the generation and management of documents (PDF, Excel, DOCX) for the Offeria platform. It listens for document generation requests from Kafka and processes them using various document generators.
 
